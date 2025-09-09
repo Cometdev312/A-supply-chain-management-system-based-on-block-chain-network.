@@ -183,3 +183,5 @@ https://reactjs.org/docs/getting-started.html
 https://www.trufflesuite.com/docs/truffle/reference/configuration
 ## Documentation to help with Ganache-cli
 https://www.trufflesuite.com/docs/ganache/overview
+
+*`If you have any question with this project, feel free to reach out.`*
